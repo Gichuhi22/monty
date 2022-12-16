@@ -11,8 +11,6 @@
 #include <unistd.h>
 #include <string.h>
 
-glob_t global = {NULL, NULL};
-int value;
 
 /**
  * struct stack_s - doubly linked list representation of a stack (or queue)
