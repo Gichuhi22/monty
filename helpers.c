@@ -24,7 +24,7 @@ int _isdigit(char *c)
 }
 
 /**
- * cleanStack - Frees mallocs and close de files
+ * cleanStack - Frees mallocs and close the files
  * @stack: Stack
  */
 void cleanStack(stack_t **stack)
